@@ -1,6 +1,6 @@
 <h1>👋 Hello there!</h1>
 
-<p>Welcome to my page! </br> I'm Gabriel Neves, Front-end developer (studying to became a FullStack developer) from <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png" width="15"/> <b>Goiânia, Goiás, Brasil!</b> </p>
+<p>Welcome to my page! </br> I'm Gabriel Neves, FullStack Web Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png" width="15"/> <b>Goiânia, Goiás, Brasil!</b> </p>
 
 <h3>Things I code with</h3>
 <p>
